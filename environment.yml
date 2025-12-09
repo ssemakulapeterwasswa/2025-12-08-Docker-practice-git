@@ -1,0 +1,9 @@
+name: dict-docker-env
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.12
+  - anyio
+  - jupyter
+
