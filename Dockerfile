@@ -1,5 +1,5 @@
 # 1. use a base image that includes conda
-FROM continuumio/miniconda3:lastest
+FROM continuumio/miniconda3:latest
 
 # 2. set the working directory
 WORKDIR /this_app
